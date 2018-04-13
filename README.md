@@ -1,4 +1,4 @@
-# bitcoin-ore
+# bitcoinore
 
 init by lau
 
